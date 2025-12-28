@@ -1,6 +1,6 @@
 # Claude Minions
 
-sup guys this is the multi agent coding setup that i use for my claude code 
+sup guys this is the multi agent coding setup that i use in claude code 
 
 ## Overview
 
