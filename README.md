@@ -25,7 +25,7 @@ Claude Minions enables you to run multiple Claude Code instances in parallel, ea
 ### macOS / Linux / Git Bash (Windows)
 
 ```bash
-git clone https://github.com/yourusername/claude-minions.git
+git clone https://github.com/MAlshaik/claude-minions.git
 cd claude-minions
 ./install.sh
 ```
@@ -35,7 +35,7 @@ cd claude-minions
 **Note: Windows installation scripts are untested. Please report any issues.**
 
 ```powershell
-git clone https://github.com/yourusername/claude-minions.git
+git clone https://github.com/MAlshaik/claude-minions.git
 cd claude-minions
 .\install.ps1
 ```
@@ -46,7 +46,7 @@ If the installation scripts don't work, you can manually copy the command files:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/claude-minions.git
+git clone https://github.com/MAlshaik/claude-minions.git
 cd claude-minions
 
 # Copy commands to Claude Code's commands directory
